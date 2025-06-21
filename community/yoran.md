@@ -12,8 +12,8 @@ Sou um apaixonado por tecnologia e programação. Atualmente sou estudante de An
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![C#](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=csharp)
-![.dotnet](https://dotnet.microsoft.com/pt-br/)
+![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=csharp)
+![.dotnet](https://img.shields.io/badge/.net-000?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
