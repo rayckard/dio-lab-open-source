@@ -18,8 +18,9 @@ Sou um apaixonado por tecnologia e programação. Atualmente sou estudante de An
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ## 🌐 Vamos Conectar?
-[![Replit](https://replit.com/@rayckard)
-[![Portfolio](https://github.com/rayckard)
+![Replit](https://replit.com/@rayckard)
+
+![Portfolio](https://github.com/rayckard)
 
 ## 📚 Projetos em Destaque
 
